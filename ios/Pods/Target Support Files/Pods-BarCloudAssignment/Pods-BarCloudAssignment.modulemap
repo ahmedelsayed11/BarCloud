@@ -1,0 +1,6 @@
+module Pods_BarCloudAssignment {
+  umbrella header "Pods-BarCloudAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
